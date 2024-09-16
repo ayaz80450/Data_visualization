@@ -4,7 +4,7 @@ import "../styles/Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>Developed by Redian Marku.</p>
+      <p>Developed by Md. Ayaz</p>
     </footer>
   );
 };
